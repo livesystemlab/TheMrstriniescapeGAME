@@ -3,7 +3,7 @@
 # 🎮 The Mrs. Trini Escape
 
 <p align="center">
-  <img src="https://github.com/livesystemlab/TheMrstriniescapeGAME/blob/main/banner.png" width="800">
+  <img src="https://github.com/livesystemlab/TheMrstriniescapeGAME/blob/main/banner-2.png" width="800">
 </p>
 
 
