@@ -2,6 +2,9 @@
 
 # 🎮 The Mrs. Trini Escape
 
+
+
+
 Un juego divertido y desafiante creado en **Scratch**, donde tu misión principal es **evadir los ataques de Mrs. Trini el mayor tiempo posible**.
 
 ---
